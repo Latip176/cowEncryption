@@ -33,7 +33,7 @@ print(Encrypt)
 3. Shorten your coding
 
 ### Stats
-[![Downloads](https://static.pepy.tech/personalized-badge/cowEncryption?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/coEncryption)
+[![Downloads](https://static.pepy.tech/personalized-badge/cowEncryption?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/cowEncryption)
 
 ### License
 The MIT License (MIT). Please see [License File](https://github.com/Latip176/cowEncryption/blob/main/LICENSE) for more information.
