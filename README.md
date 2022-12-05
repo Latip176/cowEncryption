@@ -44,7 +44,7 @@ exec("Running('HDqnakdnaHqhdasjdkcdsawwqdasdaIdnwqiPWqdbwbqndq10nkanksdsainvis02
 2. Protect your project files from thieves
 3. Shorten your coding
 
-### Stat
+### Stats
 [![Downloads](https://pepy.tech/badge/cowencryption)](https://pepy.tech/project/cowencryption)
 
 ### License
