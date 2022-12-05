@@ -37,12 +37,13 @@ from cowEncryption.savior import Running
 
 exec("Running('HDqnakdnaHqhdasjdkcdsawwqdasdaIdnwqiPWqdbwbqndq10nkanksdsainvis02nksdnvsjdsajbdjsahhcxxfgxv7767ycv7767yc(hwdqndaKfskfinin2891313bOD(QJdsna(hwdqndaKHqhdasjdkcv7767ychdakshdq31ncwojdwinvis02nksdnvs51nicnaksnknec', 'running').decPrem('running')")
 ```
-```check in 'example' folder for more```
+```check in folder 'example' for more```
 
 ### Function
 1. To Encrypt your project files to keep them safe from thieves
 2. Protect your project files from thieves
-3. Shorten your coding
+3. Shorten your code
+
 
 ### Stats
 [![Downloads](https://pepy.tech/badge/cowencryption)](https://pepy.tech/project/cowencryption)
