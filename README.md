@@ -14,7 +14,6 @@ pip install cowEncryption --upgrade
 ```
 
 ### Usage
-
 #### file: example.py
 ```PYTHON
 print("Hello World!")
@@ -38,6 +37,7 @@ from cowEncryption.savior import Running
 
 exec("Running('HDqnakdnaHqhdasjdkcdsawwqdasdaIdnwqiPWqdbwbqndq10nkanksdsainvis02nksdnvsjdsajbdjsahhcxxfgxv7767ycv7767yc(hwdqndaKfskfinin2891313bOD(QJdsna(hwdqndaKHqhdasjdkcv7767ychdakshdq31ncwojdwinvis02nksdnvs51nicnaksnknec', 'running').decPrem('running')")
 ```
+```check in 'example' folder for more```
 
 ### Function
 1. To Encrypt your project files to keep them safe from thieves
