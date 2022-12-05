@@ -1,7 +1,7 @@
 from cowEncryption import savior
 
 #your name / path file project
-file = "setup.py"
+file = "example.py"
 
 #Encryption
 Encrypt = savior.Encryption(file, jenis="file").encPrem()
